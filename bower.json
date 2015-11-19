@@ -1,0 +1,10 @@
+{
+  "name": "sa-flot",
+  "main": [
+	"**/.js",
+	"**/.css"
+  ],
+  "ignore": [
+  ]
+}
+
