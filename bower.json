@@ -1,10 +1,27 @@
 {
   "name": "sa-flot",
   "main": [
-	"**/.js",
-	"**/.css"
+  	"dev/excanvas.js",
+  	"dev/excanvas.min.js",
+  	"dev/jquery.colorhelpers.min.js",
+  	"dev/jquery.flot.canvas.min.js",
+  	"dev/jquery.flot.categories.min.js",
+  	"dev/jquery.flot.crosshair.min.js",
+  	"dev/jquery.flot.errorbars.min.js",
+  	"dev/jquery.flot.fillbetween.min.js",
+  	"dev/jquery.flot.image.min.js",
+  	"dev/jquery.flot.navigate.min.js",
+  	"dev/jquery.flot.pie.min.js",
+  	"dev/jquery.flot.resize.min.js",
+  	"dev/jquery.flot.stack.min.js",
+  	"dev/jquery.flot.symbol.min.js",
+  	"dev/jquery.flot.threshold.min.js",
+  	"other/curvedLines.js",
+  	"other/jquery.flot.rangeselection.js",
+  	"jquery.flot.min.js",
+  	"jquery.flot.selection.min.js",
+  	"jquery.flot.time.min.js"
   ],
   "ignore": [
   ]
 }
-
