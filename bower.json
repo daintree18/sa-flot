@@ -1,6 +1,9 @@
 {
   "name": "sa-flot",
   "main": [
+   	"jquery.flot.min.js",
+  	"jquery.flot.selection.min.js",
+  	"jquery.flot.time.min.js",
   	"dev/excanvas.js",
   	"dev/excanvas.min.js",
   	"dev/jquery.colorhelpers.min.js",
@@ -17,10 +20,7 @@
   	"dev/jquery.flot.symbol.min.js",
   	"dev/jquery.flot.threshold.min.js",
   	"other/curvedLines.js",
-  	"other/jquery.flot.rangeselection.js",
-  	"jquery.flot.min.js",
-  	"jquery.flot.selection.min.js",
-  	"jquery.flot.time.min.js"
+  	"other/jquery.flot.rangeselection.js"
   ],
   "ignore": [
   ]
